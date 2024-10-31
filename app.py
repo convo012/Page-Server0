@@ -154,7 +154,7 @@ body{
 
             color: white;
 
-            margin-left: 70px;
+            margin-left: 60px;
 
             padding: 10px 20px;
 
