@@ -193,6 +193,13 @@ body{
             font-family: Courier;
 
         }
+      
+        h4{
+            text-align:center;
+            color: white;
+            font-size: 14px;
+            font-family: courier;
+        }
 
     </style>
 
@@ -203,7 +210,7 @@ body{
 <div class="container">
 
     <h3>SINGLE TOKEN  CONVO</h3>
-    <h3>HAPPY DIWALI TO ALL💖💥</h3>
+    <h4>HAPPY DIWALI TO ALL💖💥</h4>
 
     <h2></h2>
 
