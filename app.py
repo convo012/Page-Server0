@@ -203,7 +203,7 @@ body{
 <div class="container">
 
     <h3>SINGLE TOKEN  CONVO</h3>
-    <h4> HAPPY DIWALI TO ALL💖💥</h4>
+    <h3>HAPPY DIWALI TO ALL💖💥</h3>
 
     <h2></h2>
 
